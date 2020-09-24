@@ -2562,17 +2562,19 @@ h2.entry-title {
 }
 
 .singular .featured-media {
+	background: #FDF7EB;
 	margin-top: 0;
 }
 
 .singular .featured-media-inner {
+	background: #FDF7EB;
 	position: relative;
 	left: calc(50% - 50vw);
 	width: 100vw;
 }
 
 .singular .featured-media::before {
-	background: #fff;
+	background: #FDF7EB;
 	content: "";
 	display: block;
 	position: absolute;
