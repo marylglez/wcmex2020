@@ -1008,7 +1008,7 @@ section {
 }
 
 .section-inner.medium {
-	max-width: 100rem;
+	display: none;
 }
 
 .section-inner.no-margin {
