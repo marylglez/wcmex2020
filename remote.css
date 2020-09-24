@@ -1295,6 +1295,7 @@ button.toggle {
 	box-shadow: 10px -10px 0 0 rgba(0,0,0,1);
 	background: #fff;
 	border: 3px #000 solid;
+	padding: 2.9375rem .9375rem 1.6875rem;
 }
 /* Social Icons ------------------------------ */
 
