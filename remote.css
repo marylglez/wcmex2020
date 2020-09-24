@@ -5077,7 +5077,7 @@ a.to-the-top > * {
 	/* POST HEADER */
 
 	.singular .entry-header {
-		padding: 8rem 0;
+		padding: 8px 0px 40px 0px;
 	}
 
 	.entry-categories {
