@@ -1289,14 +1289,14 @@ button.toggle {
 }
 
 /*Organizers*/
-.wordcamp-organizer{
+/*.wordcamp-organizer{
 	-webkit-box-shadow: 10px -10px 0 0 rgba(0,0,0,1);
 	-moz-box-shadow: 10px -10px 0 0 rgba(0,0,0,1);
 	box-shadow: 10px -10px 0 0 rgba(0,0,0,1);
 	background: #fff;
 	border: 3px #000 solid;
 	padding: 2.9375rem .9375rem 1.6875rem;
-}
+}*/
 /* Social Icons ------------------------------ */
 
 ul.social-icons {
